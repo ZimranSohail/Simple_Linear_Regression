@@ -1,0 +1,5 @@
+NumPy
+Pandas
+Scikit-learn(for comparison with model)
+Matplotlib.pyplot
+ISLP advertisement.csv dataset
